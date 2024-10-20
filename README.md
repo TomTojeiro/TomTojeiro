@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomTojeiro
+- 👋 Hi, I’m @Tomás Tojeiro
 - 👀 I’m interested in programing games
 - 🌱 I’m currently learning C++, C#
 - ⚡ Fun fact: ...
